@@ -6,20 +6,21 @@ A powerful and modern FastFlags manager for Roblox.
 
 - **⚡ Optimized Performance** - Apply FastFlags efficiently to reduce lag and improve FPS
 - **💾 Config Management** - Save and load multiple FFlag configurations
-- **📋 Clipboard Integration** - Paste configs directly from clipboard
 - **🔄 Auto-Update** - Automatic update notifications from GitHub releases
-- **🛡️ Remote Safety Switch** - Built-in protection system for critical bugs
 - **🎨 Modern UI** - Clean glassmorphism design with smooth animations
-- **🔐 Authentication** - Secure login with HWID verification
 - **📦 Portable** - No installation required, runs from anywhere
 
 ## 📥 Download
 
 Get the latest version from [Releases](../../releases)
 
-## ⚠️ Disclaimer
+## ⚠️ Antivirus False Positives
 
-This software is provided "as is". Use responsibly.
+Some antivirus software may flag this app as suspicious because:
+- It modifies process memory (to apply FFlags)
+- It's packaged with PyInstaller
+
+This is a false positive. Always download from the official GitHub releases page.
 
 ## 📜 Credits
 
