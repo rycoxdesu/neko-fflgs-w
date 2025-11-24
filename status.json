@@ -2,5 +2,5 @@
   "enabled": true,
   "message": "Application is under maintenance. Please try again in 30 minutes.",
   "announcement": "",
-  "min_version": "1.0.0"
+  "min_version": "1.0.1"
 }
