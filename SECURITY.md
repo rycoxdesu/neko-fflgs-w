@@ -1,17 +1,5 @@
 # Security Policy
 
-## 🛡️ Remote Features
-
-This application includes a remote status check mechanism for safety and stability.
-
-### How it works:
-- The app periodically checks a configuration file hosted on GitHub
-- This allows us to remotely disable the app if critical bugs are discovered
-- Helps protect users from potential issues
-
-### What we collect:
-- **Nothing.** No personal data is collected or transmitted.
-
 ## 🔄 Updates
 
 - Updates are downloaded directly from GitHub Releases
