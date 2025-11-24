@@ -47,4 +47,4 @@ This software is provided "as is". While we strive for safety and stability, mod
 ## 📜 Credits
 
 - Developed by **Neko's Circle**
-- UI powered by **PyWebView**
+
